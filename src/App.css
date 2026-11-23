@@ -71,6 +71,7 @@ h2 {
   align-items: center;
   border-radius: 6px;
   padding: 5px;
+  
 }
 .app .todos .todo .left {
   display: flex;
